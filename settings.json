@@ -1,0 +1,26 @@
+{
+  "cSpell.language": "en,pt_BR",
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 14,
+  "editor.lineHeight": 1.8,
+  "editor.minimap.enabled": false,
+  "editor.renderLineHighlight": "all",
+  "editor.rulers": [
+    80,
+    120
+  ],
+  "editor.semanticHighlighting.enabled": false,
+  "explorer.compactFolders": false,
+  "javascript.suggest.autoImports": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.suggest.autoImports": true,
+  "window.commandCenter": false,
+  "window.titleBarStyle": "custom",
+  "workbench.activityBar.location": "top",
+  "workbench.editor.labelFormat": "short",
+  "workbench.iconTheme": "symbols",
+  "workbench.layoutControl.enabled": false,
+  "workbench.secondarySideBar.defaultVisibility": "visible",
+  "workbench.startupEditor": "newUntitledFile"
+}
